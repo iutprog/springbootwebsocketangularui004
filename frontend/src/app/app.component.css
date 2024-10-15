@@ -1,0 +1,18 @@
+.container {
+    margin-top: 20px;
+  }
+  
+  .full-width {
+    width: 100%;
+  }
+  
+  .send-button {
+    width: 100%;
+    margin-top: 15px;
+  }
+  
+  .message-table {
+    margin-top: 20px;
+    width: 100%;
+  }
+  
